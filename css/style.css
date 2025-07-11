@@ -130,3 +130,34 @@ main{
     color: #181818;
     font-weight: 600;
 }
+/* what i do  start*/
+.what-section{}
+.what-header{
+    text-align: center;
+    
+}
+.what-header p{
+    line-height: 30px;
+    margin: 30px 22px 50px;
+}
+.skills{
+    display: flex;
+}
+.skill-item{
+    width: 267px;
+    text-align: left;
+    gap: 24px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
+}
+.skill-item h4{
+    margin: 30px 0 20px;
+    color: #181818;
+    font-size: 20px;
+    font-weight: bold;
+}
+.skill-item p{
+    font-size: 16px;
+}
+/* what i do  end*/
